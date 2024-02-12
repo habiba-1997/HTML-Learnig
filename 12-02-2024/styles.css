@@ -1,0 +1,62 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+header,img {
+    background-color: white;
+    height: 75px;
+    width: 15%;
+    padding-left: 200px;
+}
+
+
+
+.section1 {
+
+
+    background-color: blue;
+    height: 682px;
+    width: 50%;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section1>p {
+    font-size: 100px;
+
+}
+
+.section2 {
+    background-image: url(./boyphoto.png);
+    height: 682px;
+    width: 50%;
+    float: left;
+
+}
+
+.section3 {
+    background-color: white;
+    height: 500px;
+    width: 60%;
+    
+
+    float: left;
+    justify-content: left;
+
+}
+.section3 >div {
+    padding-left: 200px;
+    padding-right: 100px;
+}
+
+.section3>div>h1 {
+    font-size: 75px;
+}
+
+.section3>div>h4 {
+    font-size: 20px;
+}
