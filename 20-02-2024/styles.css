@@ -1,0 +1,55 @@
+.manu {
+    display: flex;
+
+}
+
+
+
+.manu_1 {
+    height: 100px;
+    width: 40%;
+    background-color: darkgrey;
+
+
+}
+
+.manu_1 p {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.manu_2 {
+    height: 100px;
+    width: 60%;
+    background-color: grey;
+
+}
+
+.manu_2 li {
+    color: white;
+    display: inline;
+    margin: 20px;
+
+}
+.section{
+    display: flex;
+}
+
+
+.section_1{
+    background-color: darkgrey;
+    height: 500px;
+    width: 40%;
+    color: white;
+    
+}
+
+.section_1 h1{
+    font-size: 2em;
+}
+.section_2{
+    height: 500px;
+    width: 60%;
+}
